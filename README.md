@@ -1,4 +1,12 @@
 # Boutique Diayma
+2. Quels sont les projets de la solution ?
+Il y’a un seul projet nomme :  Diayma 
+3. Quelle est la version SDK .NET utilisée par ces projets ?
+netcoreapp2.0
+6. Explorez l’application. Signalez 2 bugs trouvés ?
+-Quand je change le langue ca ne marche pas y’a que le français qui marche.
+-Quand j’ajoute un article a ma commande et que je retourne continuer mes achats le stock de l’article que j’ai pris ne diminue pas.
+
 ## 5. Namespaces, classes et méthodes visités avant l’affichage des produits
 
 Flux observé en mode debug (F10 = Step Over, F11 = Step Into, Shift+F11 = Step Out) :
