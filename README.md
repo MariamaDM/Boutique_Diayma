@@ -37,3 +37,5 @@ Namespaces traversés :
 - P2FixAnAppDotNetCode.Controllers
 - P2FixAnAppDotNetCode.Components
 - Microsoft.EntityFrameworkCore
+- ## 7. Lien de l'exécutable Windows
+- https://drive.google.com/file/d/1Ie_jgsvWSpdxHTpNPmOH7b22DY5rbFaj/view?usp=sharing
